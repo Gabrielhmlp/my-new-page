@@ -7,8 +7,8 @@ Page of html
   <title>bmg</title>
  </head>
  <body>
-    <h1 color="blue">bem vindo</h1> 
+    <h1 collor="blue">bem vindo</h1> 
  </body>
 
-
-</html>
+  
+</html> 
